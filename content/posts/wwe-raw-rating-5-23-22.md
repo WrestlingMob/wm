@@ -2,8 +2,8 @@
 title: "Wwe Raw Rating 5-23-22"
 date: 2022-05-24T19:53:24-04:00
 draft: false
-catgories: ["News"]
-tags: ["WWE News"]
+catgories: ["news"]
+tags: ["wwe news"]
 
 author: "Brandon"
 summary: "Despite facing much tougher competition than the prior week, “WWE RAW” only saw a small drop in their audience this past Monday night, although the 18-49 demo rating had a much bigger dip."

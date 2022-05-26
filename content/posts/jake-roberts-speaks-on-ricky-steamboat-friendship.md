@@ -2,7 +2,7 @@
 title: "Jake Roberts Speaks on Ricky Steamboat Friendship"
 date: 2022-05-24T19:35:45-04:00
 draft: false
-catgories: ["MISC"]
+catgories: ["misc"]
 tags: ["misc"]
 
 author: "Brandon"

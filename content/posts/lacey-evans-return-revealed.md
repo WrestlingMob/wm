@@ -3,8 +3,8 @@
 title: "Lacey Evans Return Date Revealed"
 date: 2022-05-25T20:27:31-04:00
 draft: false
-catgories: ["News"]
-tags: ["WWE News"]
+catgories: ["news"]
+tags: ["wwe news"]
 author: "Brandon"
 summary: "The return date for Lacey Evans is now revealed.  She's been out of action for about a year now."
 description: "The return date for Lacey Evans is now revealed.  She's been out of action for about a year now."

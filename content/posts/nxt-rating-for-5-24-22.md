@@ -2,8 +2,8 @@
 title: "NXT Rating for May 24, 2022"
 date: 2022-05-25T19:41:37-04:00
 draft: false
-catgories: ["News"]
-tags: ["WWE News"]
+catgories: ["news"]
+tags: ["wwe news"]
 summary: ["This weeks NXT drew a low rating. Full details inside. "]
 author: "Brandon"
 draft: false

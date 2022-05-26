@@ -2,8 +2,8 @@
 title: "Theory Has Unique Idea for Custom Us Championship"
 date: 2022-05-24T19:40:09-04:00
 draft: false
-catgories: ["News"]
-tags: ["WWE News"]
+catgories: ["news"]
+tags: ["wwe news"]
 
 author: "Brandon"
 summary: "Theory Reveals Unique Idea For Custom United States Championship"

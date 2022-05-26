@@ -3,7 +3,7 @@ title: "Wwe Monday Night Raw Results 5 23 2022"
 date: 2022-05-24T15:48:25-04:00
 draft: false
 
-catgories: ["WWE"]
+catgories: ["wwe"]
 tags: ["wwe results"]
 
 summary: ["WWE Raw Results from 5/23/22"]

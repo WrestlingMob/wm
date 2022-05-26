@@ -1,8 +1,8 @@
 --- 
 title: "AEW Dark Results for May 24, 2022."
 draft: false
-catgories: ["Results"]
-tags: ["AEW Results"]
+catgories: ["results"]
+tags: ["aew results"]
 summary: ["Quick breakdown of AEW Dark Results from May 24, 2022. "]
 author: "Brandon"
 draft: false

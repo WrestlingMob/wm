@@ -2,8 +2,8 @@
 title: "Aew Double or Nothing 2022 Card"
 date: 2022-05-24T19:18:13-04:00
 draft: false
-catgories: ["News"]
-tags: ["Aew News"]
+catgories: ["news"]
+tags: ["aew news"]
 
 author: "Brandon"
 summary: "The latest card for AEW Double or Nothing, 2022. "

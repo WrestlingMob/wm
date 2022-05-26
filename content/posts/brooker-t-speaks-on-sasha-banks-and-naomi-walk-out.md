@@ -2,8 +2,8 @@
 title: "Booker-T Speaks on Sasha Banks and Naomi Walk Out"
 date: 2022-05-24T19:48:57-04:00
 draft: false
-catgories: ["News"]
-tags: ["WWE News"]
+catgories: ["news"]
+tags: ["wwe news"]
 
 author: "Brandon"
 summary: "Booker T believes that those who support Naomi and Sasha Banks walking out of “WWE Raw” are on a slippery slope."

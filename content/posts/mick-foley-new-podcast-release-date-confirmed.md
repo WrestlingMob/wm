@@ -2,8 +2,8 @@
 title: "Mick Foley New Podcast Release Date Confirmed"
 date: 2022-05-24T19:43:27-04:00
 draft: false
-catgories: ["WWE"]
-tags: ["WWE News"]
+catgories: ["wwe"]
+tags: ["wwe news"]
 
 author: "Brandon"
 summary: "Release Date For Mick Foley’s New Podcast Confirmed"

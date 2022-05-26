@@ -2,8 +2,8 @@
 title: "Wwe Wanted Cody in 2k22"
 date: 2022-05-24T19:45:58-04:00
 draft: false
-catgories: ["News"]
-tags: ["WWE News"]
+catgories: ["news"]
+tags: ["wwe news"]
 
 author: "Brandon"
 summary: "WWE tried to get Cody Rhodes included in their latest video game title from 2k. "

@@ -2,7 +2,7 @@
 title: "Kurt Angle Has Double Knee Surgery"
 date: 2022-05-24T19:59:30-04:00
 draft: false
-catgories: ["News"]
+catgories: ["news"]
 tags: ["misc"]
 
 author: "Brandon"
