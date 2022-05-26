@@ -8,11 +8,11 @@ summary: ["This weeks NXT drew a low rating. Full details inside. "]
 author: "Brandon"
 draft: false
 description: "This weeks NXT drew a low rating. Full details inside."
-featuredImagePreview: "/images/featured-images/nxt-logo.jpg"
+featuredImagePreview: "/images/featured-images/nxt-logo.png"
 
 ---
 
-{{< image src="/images/featured-images/nxt-logo.jpg" caption="Photo Credit: WWE" >}}
+{{< image src="/images/featured-images/nxt-logo.png" caption="Photo Credit: WWE" >}}
 
 ### NXT 2.0 Viewership for May 24, 2022. 
 
